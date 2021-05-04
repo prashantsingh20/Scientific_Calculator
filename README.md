@@ -1,5 +1,5 @@
-![Capture1](https://user-images.githubusercontent.com/68744875/117043571-07250e00-ad2b-11eb-8743-883c175610e5.PNG)
 # Scientific_Calculator
+![Capture1](https://user-images.githubusercontent.com/68744875/117043954-7ac71b00-ad2b-11eb-8d7e-0c41c7ef60fd.PNG)
 
 
 Advanced operations can be viewed by clicking << and closed by clicking >></br>
